@@ -1,0 +1,24 @@
+# Intellij IDEA #
+#################
+.idea
+*.iws
+*.iml
+*.ipr
+
+# Compiled source #
+###################
+*.class
+*.jar
+*.war
+
+# Logs and databases #
+######################
+log/
+*.log
+
+# Document #
+############
+*.txt
+
+target/
+
